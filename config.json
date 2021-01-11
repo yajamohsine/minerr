@@ -61,9 +61,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "litecoinpool.org:3333",
-            "user": "M8FaagiSv5eTeQwNE3VwJU8styL1mxUUH7",
-            "pass": "x",
+            "url": "ltc.pool.minergate.com:3336",
+            "user": "yaja.mohsine2@gmail.com",
+            "pass": "null",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
