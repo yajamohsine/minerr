@@ -61,8 +61,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "xmrpool.eu:5555",
-            "user": "43M1seFAU474YuraYtDEhP6EuqCh8515Q22HyoiwmxPQP2EZBLJ1Lhp3s49jZKBNwChxDs79cRK1N6QdxUSMiDVUSqrxgCE",
+            "url": "litecoinpool.org:3333",
+            "user": "M8FaagiSv5eTeQwNE3VwJU8styL1mxUUH7",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
