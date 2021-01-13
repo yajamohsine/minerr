@@ -61,9 +61,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "ltc.pool.minergate.com:3336",
-            "user": "yaja.mohsine2@gmail.com",
-            "pass": "null",
+            "url": "xmrpool.eu:5555",
+            "user": "43M1seFAU474YuraYtDEhP6EuqCh8515Q22HyoiwmxPQP2EZBLJ1Lhp3s49jZKBNwChxDs79cRK1N6QdxUSMiDVUSqrxgCE",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
